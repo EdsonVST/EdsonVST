@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/EdsonVST/EdsonVST/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/EdsonVST/EdsonVST/main/output/snake.svg" alt="Snake animation" />
 
 ###

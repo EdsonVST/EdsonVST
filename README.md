@@ -1,5 +1,6 @@
 <h2 align="left">👋 Hiii! I'm Edson Vinicio</h2>
-<h3 align="left">Computer Engineering Student | Python Developer</h3>
+<h3 align="left">Computer Engineering Student | Developer and Data Analyst</h3>
+
 
 ###
 
@@ -9,9 +10,6 @@
   </a>
   <a href="https://www.linkedin.com/in/edson-vinicio-silva-459675298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/EdsonVST" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
   </a>
 </div>
 
